@@ -1,8 +1,5 @@
 # Low Level System Design - PubSub Messaging Queue
 
-### Video Explanation
-https://youtu.be/4BEzgPlLKTo
-
 ### Problem statement
 [Check here](problem-statement.md)
 
